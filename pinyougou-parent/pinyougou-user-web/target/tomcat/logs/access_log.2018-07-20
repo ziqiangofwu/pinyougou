@@ -1,0 +1,15 @@
+0:0:0:0:0:0:0:1 - - [20/Jul/2018:19:39:25 +0800] "GET / HTTP/1.1" 302 - http-bio-9106-exec-1 72
+0:0:0:0:0:0:0:1 - - [20/Jul/2018:19:40:10 +0800] "GET /register.html HTTP/1.1" 304 - http-bio-9106-exec-3 5
+0:0:0:0:0:0:0:1 - - [20/Jul/2018:19:40:10 +0800] "GET /css/pages-register.css HTTP/1.1" 304 - http-bio-9106-exec-5 2
+0:0:0:0:0:0:0:1 - - [20/Jul/2018:19:40:10 +0800] "GET /css/webbase.css HTTP/1.1" 304 - http-bio-9106-exec-4 4
+0:0:0:0:0:0:0:1 - - [20/Jul/2018:19:40:10 +0800] "GET /plugins/angularjs/angular.min.js HTTP/1.1" 304 - http-bio-9106-exec-6 4
+0:0:0:0:0:0:0:1 - - [20/Jul/2018:19:40:10 +0800] "GET /js/controller/userController.js HTTP/1.1" 304 - http-bio-9106-exec-9 4
+0:0:0:0:0:0:0:1 - - [20/Jul/2018:19:40:10 +0800] "GET /js/service/userService.js HTTP/1.1" 304 - http-bio-9106-exec-8 4
+0:0:0:0:0:0:0:1 - - [20/Jul/2018:19:40:10 +0800] "GET /js/base.js HTTP/1.1" 304 - http-bio-9106-exec-7 3
+0:0:0:0:0:0:0:1 - - [20/Jul/2018:19:40:10 +0800] "GET /js/plugins/jquery/jquery.min.js HTTP/1.1" 304 - http-bio-9106-exec-10 3
+0:0:0:0:0:0:0:1 - - [20/Jul/2018:19:40:10 +0800] "GET /js/plugins/jquery.easing/jquery.easing.min.js HTTP/1.1" 304 - http-bio-9106-exec-4 2
+0:0:0:0:0:0:0:1 - - [20/Jul/2018:19:40:10 +0800] "GET /js/plugins/sui/sui.min.js HTTP/1.1" 304 - http-bio-9106-exec-6 2
+0:0:0:0:0:0:0:1 - - [20/Jul/2018:19:40:10 +0800] "GET /js/plugins/jquery-placeholder/jquery.placeholder.min.js HTTP/1.1" 304 - http-bio-9106-exec-8 2
+0:0:0:0:0:0:0:1 - - [20/Jul/2018:19:40:10 +0800] "GET /js/pages/register.js HTTP/1.1" 304 - http-bio-9106-exec-3 2
+0:0:0:0:0:0:0:1 - - [20/Jul/2018:19:40:10 +0800] "GET /img/icons.png HTTP/1.1" 302 - http-bio-9106-exec-3 31
+0:0:0:0:0:0:0:1 - - [20/Jul/2018:19:40:11 +0800] "GET /favicon.ico HTTP/1.1" 302 - http-bio-9106-exec-3 3
